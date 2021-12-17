@@ -1,0 +1,11 @@
+{
+    "identifier": "holler.RosePineTheme",
+    "name": "Rose Pine",
+    "organization": "Holler",
+    "description": "A port of the Rose Pine theme",
+    "version": "1.0",
+    "categories": ["themes"],
+    "bugs": "https://github.com/daveyholler/rose-pine-nova/issues",
+    "homepage": "https://daveyholler.com",
+    "repository": "https://github.com/daveyholler/rose-pine-nova"
+}
