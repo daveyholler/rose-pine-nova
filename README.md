@@ -1,9 +1,9 @@
-<div style="text-align: center">
-  <img width="96" height="96" src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" />
-  <h3>Rosé Pine for Nova</h3>
-  <hr />
-  <p>All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
-</div>
+<p align="center">
+  <a href="https://rosepinetheme.com"><img src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png" width="80" /></a>
+  <h2 align="center">Rosé Pine Theme</h2>
+</p>
+
+<p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
 ## Usage
 
