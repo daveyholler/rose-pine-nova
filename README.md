@@ -13,7 +13,7 @@
 
 ## Gallery
 
-![Rosé Pine with App](/Images/extension/rose-pine-jsx.png)
+![Rosé Pine with App](https://shots.daveyholler.com/li8C1N/download)
 
 ## Variants [Coming soon]
 1. Moon
